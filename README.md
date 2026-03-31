@@ -23,7 +23,7 @@ Created professional profiles on Github, Linkedin, and Kaggle to build a strong 
 ### Task 3: Platforms Exploration
 - Completed a beginner coding problem on HackerRank
 - Created a digital literacy quiz using Google Forms
-  **Quiz Link:**
+  **Quiz Link:** https://forms.gle/JjGFNGDAakPLsjLf7
 ---
 ### Task 4: Email & Etiquette
 - Wrote two professional emails
